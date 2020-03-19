@@ -1,1 +1,1 @@
-1. Create "README.txt".
+1. Create "readme.txt".
