@@ -1,1 +1,1 @@
-1. Create "readme.txt".
+1.Create file "Projects" and "readme.txt".
